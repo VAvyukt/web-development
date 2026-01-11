@@ -1,0 +1,10 @@
+.alt-lyrics {
+    opacity:0.35;
+    font-style:italic;
+    font-size:12px;
+}
+
+body {
+    background-color:PowderBlue;
+    text-align:center;
+}

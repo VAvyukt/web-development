@@ -1,0 +1,17 @@
+img {
+    height: 300px;  
+}
+
+@keyframes imageFilter {
+    from {
+        filter:brightness(0%);
+    }
+    
+    to {
+        filter:brightness(200%);
+    }
+}
+
+img.filtered-image {
+    animation: imageFilter 3s forwards;
+}

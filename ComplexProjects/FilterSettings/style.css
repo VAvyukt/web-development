@@ -1,0 +1,15 @@
+img {
+    width: 125px;   
+}
+
+img.first {
+    filter:grayscale(33%);
+}
+
+img.second {
+    filter:grayscale(67%);
+}
+
+img.third {
+    filter:grayscale(100%);
+}

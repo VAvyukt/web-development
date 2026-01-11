@@ -1,0 +1,23 @@
+#original {
+    height:200px;
+}
+
+img.filtered {
+    height:150px;
+}
+
+img#blur {
+    filter:blur(3px);
+}
+
+img#contrast {
+    filter:contrast(75%);
+}
+
+img#hue-rotate {
+    filter:hue-rotate(90deg);
+}
+
+img#sepia {
+    filter:sepia(100%);
+}
