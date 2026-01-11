@@ -1,0 +1,13 @@
+body{
+    background-color:DimGray;
+}
+
+h1{
+    font-weight:bold;
+    color:dodgerBlue;
+}
+
+p{
+    color:deepSkyBlue;
+    font-size:20px;
+}

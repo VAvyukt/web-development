@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color:mintcream;
+}
+
+span{
+    font-weight:bold;
+    font-variant:small-caps;
+}
+
+img{
+    width:150px;
+    height:150px;
+}

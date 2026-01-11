@@ -1,0 +1,23 @@
+a{
+    border-style:solid;
+    border-color:black;
+    background-color:thistle;
+    color:black;
+    font-size:18px;
+    font-weight:bold;
+    padding:10px;
+    margin:5px;
+}
+
+/*
+    Add a rule to style divs with
+    background-color
+    border-style
+    padding:20px
+*/
+
+div{
+    background-color:peru;
+    border-style:dotted;
+    padding:20px;
+}

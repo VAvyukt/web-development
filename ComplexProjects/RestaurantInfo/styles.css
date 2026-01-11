@@ -1,0 +1,12 @@
+div.links a {
+    background-color:DarkOrange;
+    border-style:double;
+    padding:10px;
+}
+
+p > a {
+    font-weight:bolder;
+    border-style:dashed;
+    border-color:LimeGreen;
+    color:Lime;
+}

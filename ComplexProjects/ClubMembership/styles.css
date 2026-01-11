@@ -1,0 +1,16 @@
+body {
+    background-color:PaleGoldenrod;
+}
+
+p {
+    color:Tomato;
+}
+
+p.member::after {
+    color:dodgerblue;
+    content:" Congratulations Officers!";
+}
+
+a:hover {
+    color:DeepSkyBlue;
+}

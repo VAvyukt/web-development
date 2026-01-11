@@ -1,0 +1,32 @@
+a{
+    color:DarkSlateBlue;
+}
+
+.magma{
+    background-image: radial-gradient(OrangeRed,Orange);
+    background-color:Sienna;
+}
+
+
+div{
+    width:100%;
+    padding:10px;
+    margin:0px;
+    font-weight:bolder;
+    color:indigo;
+
+}
+
+/* Add rules for the classes lava, volcano, and nav */
+
+.lava{
+    background-color:OrangeRed;
+}
+
+.volcano{
+    background-color:Peru;
+}
+
+.nav{
+    background-color:DeepSkyBlue;
+}

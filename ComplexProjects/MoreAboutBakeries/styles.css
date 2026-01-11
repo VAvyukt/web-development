@@ -1,0 +1,17 @@
+body{
+    background-color:DimGray;
+}
+
+h1{
+    font-weight:bold;
+    color:dodgerBlue;
+}
+
+a{
+    color:Cyan;
+}
+
+p{
+    color:deepSkyBlue;
+    font-size:20px;
+}

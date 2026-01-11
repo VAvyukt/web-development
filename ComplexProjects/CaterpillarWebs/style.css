@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+    background-color:darkslategray;
+    color:white;
+}
+
+img{
+    width:250px;
+    height:250px;
+}
+
+a{
+    color:lightblue;
+}
+
+/*Add a rule so spans have a background color */
+
+span{
+    background-color:Lime;
+}

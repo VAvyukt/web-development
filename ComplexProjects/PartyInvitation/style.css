@@ -1,0 +1,13 @@
+body{
+    background-color:MediumAquamarine;
+}
+
+h1{
+    color:Gold;
+}
+
+span{
+    font-weight:bold;
+    font-size:20px;
+    font-style:italic;
+}

@@ -1,0 +1,13 @@
+body {
+    background-color:OliveDrab;
+}
+
+.content {
+    border-style:double;
+    background-color:LightSeaGreen;
+    font-weight:bold;
+}
+
+p:hover {
+    font-size:30px;
+}
