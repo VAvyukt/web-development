@@ -41,6 +41,7 @@ button {
     border-radius: 5px;
     padding: 8px 12px;
     cursor: pointer;
+    transition:0.3s;
 }
 
 
@@ -49,6 +50,11 @@ button a {
     color: #2d545e;  
     font-family: monospace;
     font-weight: bold;
+}
+
+button:hover {
+    background-color: DodgerBlue;
+    transform: scale(1.05);
 }
 
 @keyframes imgBright {
